@@ -20,7 +20,7 @@
   The stylesheet is the cumulative work of several developers; the most significant prior milestones were the foundation work from HL7 
   Germany and Finland (Tyylitiedosto) and HL7 US (Calvin Beebe), and the presentation approach from Tony Schaller, medshare GmbH provided at IHIC 2009. 
 */
-body {
+body { 
 	color: #003366;
 	background-color: #FFFFFF;
 	font-family: Verdana, Tahoma, sans-serif;
